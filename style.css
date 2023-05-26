@@ -519,7 +519,7 @@ body{
           padding: 5px 6px;
         }
         .list li{
-          margin: 0 5px;
+          margin: 0 3px;
         }
         .card{
           width: 130px;
@@ -543,7 +543,7 @@ body{
           width: 130px;
           height: 300px;
           margin-top: -18.75rem;
-          margin-left: 20px;
+          margin-left: 15px;
         }
         .text2{
           display: none;
@@ -561,7 +561,7 @@ body{
           width: 130px;
           height: 300px;
           margin-top: -20.1rem;
-          margin-left: 40px;
+          margin-left: 35px;
         }
         .text3{
           display: none;
